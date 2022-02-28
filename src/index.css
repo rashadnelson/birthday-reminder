@@ -2,7 +2,7 @@ body {
   background: #f28ab2;
 }
 
-.card {
+.profile-list {
   background: white;
   margin: 0 auto;
   margin-top: 95px;
@@ -15,7 +15,6 @@ body {
 }
 
 .header-text {
-  text-align: center;
   font-family:Arial, Helvetica, sans-serif;
   font-size: 28px;
   font-weight: 400;
@@ -42,7 +41,6 @@ body {
   width: auto;
   height: 100%;
   margin-left: -15px;
-
 }
 
 img {
