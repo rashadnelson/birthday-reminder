@@ -40,7 +40,6 @@ body {
 .circular-landscape img {
   width: auto;
   height: 100%;
-  margin-left: -15px;
 }
 
 img {
@@ -65,3 +64,12 @@ img {
   color: #617d98;
 }
 
+button {
+  padding: 10px;
+  font-family: Arial;
+  font-size: 1rem;
+  background-color: lightblue;
+  border: none;
+  margin: 0 auto;
+  display: block;
+}
